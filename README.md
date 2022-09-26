@@ -7,18 +7,18 @@ is to create a machine learning model that can learn to predict power consumptio
 
 ## ABOUT THE DATASET-
 **"usage" dataset** ->  contains record of consumption of power in KWH and date-time stamp
-**"weather" dataset** -> contains detils about the weather on that specific datetime such -> temprature,
-                                                                                             due ,
-                                                                                             wind speed,
-                                                                                             humidity (min/max/avg)
+**"weather" dataset** -> contains detils about the weather on that specific datetime such   -temprature,
+                                                                                            -due ,
+                                                                                            -wind speed,
+                                                                                            -humidity (min/max/avg)
 Data was extracted from the kaggle datasets                                                                                             
                                                                                             
-**LIBRARIES/TOOLS USED**-> numpy
-                           pandas 
-                           seaborn 
-                           matplotlib 
-                           sklearn
-                           keras
+**LIBRARIES/TOOLS USED**-> -numpy
+                           -pandas 
+                           -seaborn 
+                           -matplotlib 
+                           -sklearn
+                           -keras
 
 -> A combined data was used so as to extract all corelation between atmosphere and power condition as well as the dependence on time feature like the -what time of day it is -day of the week -week of the year -month of the year
 -> Some data visualization were used to find out the corellations and dependance of target of different fetures
