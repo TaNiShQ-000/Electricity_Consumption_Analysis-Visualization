@@ -7,8 +7,8 @@ is to create a machine learning model that can learn to predict power consumptio
 
 ## ABOUT THE DATASET-
 **"usage" dataset** ->  contains record of consumption of power in KWH and date-time stamp
-**"weather" dataset** -> contains detils about the weather on that specific datetime such   -temprature,
-                                                                                            -due ,
+**"weather" dataset** -> contains detils about the weather on that specific datetime such   - temprature,
+                                                                                            - due ,
                                                                                             -wind speed,
                                                                                             -humidity (min/max/avg)
 Data was extracted from the kaggle datasets                                                                                             
