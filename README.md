@@ -5,7 +5,7 @@
 ## The goal- 
 is to create a machine learning model that can learn to predict power consumption in advance so as the companies gets an idea of the demand and strategize themselfs accordingly
 
-## ABOUT THE DATASET-
+### ABOUT THE DATASET-
 **"usage" dataset** ->  contains record of consumption of power in KWH and date-time stamp
 **"weather" dataset** -> contains detils about the weather on that specific datetime such   - temprature,
                                                                                             - due ,
