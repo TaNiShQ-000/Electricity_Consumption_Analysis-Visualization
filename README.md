@@ -1,7 +1,7 @@
 # POWER_CONSUMPTION analysis
 ** This is a data science project that takes past 3 years electricity consumption data to analyze for patterns and predict future usage**
 
-<img align="right" alt="Coding" width="400" src="https://ec.europa.eu/eurostat/documents/4187653/9806083/Energy+consumption+in+EU+households">
+<img align="center" alt="Coding" width="400" src="https://ec.europa.eu/eurostat/documents/4187653/9806083/Energy+consumption+in+EU+households">
 ## The goal- 
 is to create a machine learning model that can learn to predict power consumption in advance so as the companies gets an idea of the demand and strategize themselfs accordingly
 
